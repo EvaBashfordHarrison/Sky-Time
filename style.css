@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%; /* Forces the body to match the screen height */
+}
+
+body {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  background-color: #000;  /* Optional page background */
+}
+
+canvas {
+  display: block; /* Removes any tiny default baseline spaces underneath */
+}
