@@ -4,4 +4,4 @@ Imagine you are in a living in a post apocalyptic world where outside is a barre
 
 Check back at different times of the day. Switch off your lights, close the curtains, and load the webpage to check the time. 
 
-Please view here: [link](coming soon). 
+Please view ([here:](https://sky-time-y2q5.onrender.com)). 
